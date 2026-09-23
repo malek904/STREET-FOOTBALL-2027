@@ -446,5 +446,18 @@
     "avatar": "https://i.postimg.cc/RCJLSWJx/mʿadh.png",
     "points": 10,
     "pos": "مهاجم"
-  }
-]
+  },
+  {
+    "displayName": "MUSA",
+    "name": "MUSA",
+    "knownAs": "",
+    "age": 15,
+    "country": "Nigeria",
+    "dob": "2011/8/14",
+    "foot": "Right",
+    "skillMoves": 4,
+    "weakFoot": 2,
+    "avatar": "",
+    "points": 7,
+    "pos": "مهاجم"
+  },
