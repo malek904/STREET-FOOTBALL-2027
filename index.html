@@ -2832,8 +2832,8 @@ const BOOKING_KEY = 'sf_bookings';
 // ===== Shared cloud database (Supabase) =====
 // ضع بيانات مشروع Supabase هنا مرة واحدة لكي تصبح الحجوزات مشتركة بين كل الأجهزة.
 // إذا تركتها كما هي سيستمر التطبيق في وضع التخزين المحلي.
-const SUPABASE_URL = 'PASTE_YOUR_SUPABASE_URL_HERE';
-const SUPABASE_ANON_KEY = 'PASTE_YOUR_SUPABASE_ANON_KEY_HERE';
+const SUPABASE_URL = 'https://rmtsjtyiqxojzqfyobhm.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_gClsO_REs9_9sK1CACzboQ_wJUBAYGf';
 const CLOUD_BOOKINGS_ENABLED = SUPABASE_URL.startsWith('https://') && !SUPABASE_URL.includes('PASTE_YOUR') && !SUPABASE_ANON_KEY.includes('PASTE_YOUR');
 let cloudBookingsCache = [];
 
